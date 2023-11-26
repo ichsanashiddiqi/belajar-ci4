@@ -197,7 +197,7 @@
 
 <!-- HEADER: MENU + HEROE SECTION -->
 <header>
-
+GANTENGG
     <div class="menu">
         <ul>
             <li class="logo">
@@ -242,7 +242,7 @@
 
     <p>The corresponding controller for this page can be found at:</p>
 
-    <pre><code>app/Controllers/Home.php</code></pre>
+    <pre><code>app/Controllers/Home.php GANTENG</code></pre>
 
 </section>
 
